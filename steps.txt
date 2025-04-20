@@ -1,0 +1,17 @@
+Please start the environment before executing the following steps via: dev_env\Scripts\activate
+
+Steps for Audio_assistant:
+1. Install Ollama, and the necessary libraries (including PyAudio)
+2. Execute "ollama pull deepseek-coder" and "ollama run deepseek-coder". Keep the terminal open
+3. In a new terminal execute the Audio_assistant using "python Audio_assistant.py"
+
+Steps for Rick:
+1. Install Ollama, and the necessary libraries
+2. Execute "ollama pull deepseek-coder" and "ollama run deepseek-coder". Keep the terminal open
+3. In a new terminal execute the Rick.py file using "python Rick.py"
+
+Steps for Boardroom:
+1. Install Ollama, and the necessary libraries
+2. Execute "ollama pull deepseek-coder" and "ollama run deepseek-coder". Keep the terminal open
+3. In a new terminal, execute "ollama pull gemma3:1b" and "ollama run gemma3:1b". Keep the terminal open
+3. In a new terminal execute the Boardroom.py file using "python Boardroom.py"
