@@ -21,6 +21,9 @@ Created an Streamlit application that allows one to chat with deepseek-coder fro
 </ul>
 </br>
 
+![image](https://github.com/user-attachments/assets/d9c3bd1d-8d1b-4f6e-ac85-96ed09c34699)
+
+
 ---
 ## 3. DeepCoder and GemmaMind - Boardroom application
 Created a boardroom style application wherein the user presents their ideas to 2 LLMs, deepseek-coder and gemma. 
@@ -29,3 +32,5 @@ Created a boardroom style application wherein the user presents their ideas to 2
 <li>Aimed at supporting the exploration of ideas of students, allowing them to get suggestions from 2 LLM experts, similar to a boardroom meeting with professionals providing opinions to products and solutions.</li>
 <li>Works based on chat inputs in Streamlit to obtain the user input and provide the output from both the LLMs, sequentially.</li>
 </ul>
+
+![image](https://github.com/user-attachments/assets/4eb9c5ae-e374-40ca-9fd8-843a887c02fb)
